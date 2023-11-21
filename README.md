@@ -1,1 +1,1 @@
-### ¡Hola, soy Tahiel!👋
+Hey! I'm Tahiel, Web Developer with expertise in React, SCSS, JavaScript, Next.js, and Webflow. I'm passionate about crafting engaging user interfaces and building seamless web experiences. With a keen eye for design and a focus on clean, efficient code, I enjoy bringing creative ideas to life. Let's create something amazing together! 🚀
